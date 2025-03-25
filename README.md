@@ -6,4 +6,4 @@ Este es u proyecto de conversion de monedas entre quetzales, dolares y euross
 ## Prerequisitos:
 Instalar apache2 y php mediante los comandos:
 sudo apt install apache 2
-sudo apt install php
+Markdown: sudo apt install php
