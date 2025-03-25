@@ -1,9 +1,9 @@
-Proyecto c
+# Proyecto c
 
-Descripción:
+## Descripción:
 Este es u proyecto de conversion de monedas entre quetzales, dolares y euross
 
-Prerequisitos:
+## Prerequisitos:
 Instalar apache2 y php mediante los comandos:
 sudo apt install apache 2
 sudo apt install php
