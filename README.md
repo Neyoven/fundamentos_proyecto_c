@@ -4,8 +4,10 @@
 Este es u proyecto de conversion de monedas entre quetzales, dolares y euross
 
 ## Prerequisitos:
-Instalar apache2 y php mediante los comandos:
+instalar visual basic desde el navegador
 
-sudo apt install apache 2
+### Guillermo Ventura Juárez
 
-sudo apt install php
+### guillermo.ventura@galileo.edu
+
+### 25006932
